@@ -1,0 +1,3 @@
+/Users/Rod/Downloads/ROD_CS130A/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/Rod/Downloads/ROD_CS130A/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/Rod/Downloads/ROD_CS130A/cmake-build-release/CMakeFiles/CS130Aproj1.dir

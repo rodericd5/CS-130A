@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CS130A_Project1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS130A_Project1">
+				<Option output="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/CS130A_Project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 CS130A_Project1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS130A_Project1/fast">
+				<Option output="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/CS130A_Project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 CS130A_Project1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/src/BSTNode.cpp">
+			<Option target="CS130A_Project1"/>
+		</Unit>
+		<Unit filename="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/src/BSTNode.hpp">
+			<Option target="CS130A_Project1"/>
+		</Unit>
+		<Unit filename="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/src/BinarySearchTree.cpp">
+			<Option target="CS130A_Project1"/>
+		</Unit>
+		<Unit filename="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/src/BinarySearchTree.hpp">
+			<Option target="CS130A_Project1"/>
+		</Unit>
+		<Unit filename="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/src/HashNode.cpp">
+			<Option target="CS130A_Project1"/>
+		</Unit>
+		<Unit filename="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/src/HashNode.hpp">
+			<Option target="CS130A_Project1"/>
+		</Unit>
+		<Unit filename="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/src/HashTable.cpp">
+			<Option target="CS130A_Project1"/>
+		</Unit>
+		<Unit filename="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/src/HashTable.hpp">
+			<Option target="CS130A_Project1"/>
+		</Unit>
+		<Unit filename="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/src/main.cpp">
+			<Option target="CS130A_Project1"/>
+		</Unit>
+		<Unit filename="/Users/mylesadams/Documents/Workspace/C++/CS130A_Project1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
